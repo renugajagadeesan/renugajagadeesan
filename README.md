@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&height=70&lines=Hi+there!+%F0%9F%90%8B+I'm+Renuga+Jagadeesan;Frontend+%26+Full+Stack+Developer;Building+Interactive+Web+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF79C6&center=true&vCenter=true&width=600&height=70&lines=Hi+there!+%F0%9F%90%8B+I'm+Renuga+Jagadeesan;Frontend+%26+Full+Stack+Developer;Building+Interactive+Web+Applications" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -73,10 +73,10 @@ I am a Web Developer passionate about building interactive, responsive web appli
 ### 📊 GitHub Stats & Moving Activity Graph:
 
 <p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=renugajagadeesan&theme=github_dark" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=renugajagadeesan&theme=github_dark" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=renugajagadeesan&theme=dracula" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=renugajagadeesan&theme=dracula" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=renugajagadeesan&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=renugajagadeesan&theme=dracula" />
 </p>
