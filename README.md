@@ -10,7 +10,7 @@
   <img src="https://media.giphy.com/media/qgQUGGAC3P4PP9385a/giphy.gif" width="380" alt="Coding Animation" />
 </p>
 
-I am a Web Developer passionate about build interactive, responsive web applications and clean user interfaces. I ❤️ JavaScript, React.js, HTML, CSS, and Bootstrap, and I am always excited to learn new technologies and build innovative web projects.
+I am a Web Developer passionate about building interactive, responsive web applications and clean user interfaces. I ❤️ JavaScript, React.js, HTML, CSS, and Bootstrap, and I am always excited to learn new technologies and build innovative web projects.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
@@ -64,6 +64,16 @@ I am a Web Developer passionate about build interactive, responsive web applicat
   <img src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/VITE-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
+
+### 🐍 Contribution Eating Snake Animation:
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/Platane/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
 </p>
 
 <p align="center">
