@@ -10,7 +10,7 @@
   <img src="https://media.giphy.com/media/qgQUGGAC3P4PP9385a/giphy.gif" width="380" alt="Coding Animation" />
 </p>
 
-I am a Web Developer passionate about building interactive, responsive web applications and clean user interfaces. I ❤️ JavaScript, React.js, HTML, CSS, and Bootstrap, and I am always excited to learn new technologies and build innovative web projects.
+I am a Web Developer passionate about build interactive, responsive web applications and clean user interfaces. I ❤️ JavaScript, React.js, HTML, CSS, and Bootstrap, and I am always excited to learn new technologies and build innovative web projects.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
