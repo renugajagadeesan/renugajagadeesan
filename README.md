@@ -1,5 +1,9 @@
 # Hi 👋, I'm Renuga Jagadeesan
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUGGAC3P4PP9385a/giphy.gif" width="400" alt="Coding GIF" />
+</p>
+
 I am a Web Developer passionate about building interactive, responsive web applications and clean user interfaces. I ❤️ JavaScript, React.js, HTML, CSS, and Bootstrap, and I am always excited to learn new technologies and build innovative web projects.
 
 ---
@@ -48,6 +52,18 @@ I am a Web Developer passionate about building interactive, responsive web appli
   <img src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/VITE-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+</p>
+
+---
+
+### 🐍 Contribution Eating Snake:
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/renugajagadeesan/renugajagadeesan/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/renugajagadeesan/renugajagadeesan/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/renugajagadeesan/renugajagadeesan/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
