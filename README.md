@@ -1,11 +1,11 @@
-<!-- HEADER BANNER -->
+<!-- HEADER GRADIENT BANNER (#fbc7d4 to #9796f0) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,19,30,40&height=200&section=header&text=RENUGA%20JAGADEESAN&fontSize=38&fontColor=61DAFB&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=fbc7d4,9796f0&height=200&section=header&text=RENUGA%20JAGADEESAN&fontSize=38&fontColor=ffffff&animation=twinkling" width="100%" />
 </div>
 
-<!-- TYPING ANIMATION -->
+<!-- TYPING SVG -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&height=60&lines=Frontend+%26+Full+Stack+Developer;Building+Modern+%26+Interactive+Web+Apps;Passionate+about+UI%2FUX+%26+Clean+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9796f0&center=true&vCenter=true&width=600&height=60&lines=Hi+there!+%F0%9F%90%8B+I'm+Renuga+Jagadeesan;Frontend+%26+Full+Stack+Developer;Building+Interactive+Web+Applications" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -40,18 +40,18 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 
-<!-- UNIFIED SOCIALS -->
+<!-- GRADIENT SOCIALS (#9796f0 & #fbc7d4) -->
 ### 🌐 Connect With Me:
 
 <p>
   <a href="mailto:renugajagadeesan@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-1E1E2E?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+    <img src="https://img.shields.io/badge/Gmail-fbc7d4?style=for-the-badge&logo=gmail&logoColor=1E1E2E&labelColor=9796f0" />
   </a>
   <a href="https://linkedin.com/in/">
-    <img src="https://img.shields.io/badge/LinkedIn-1E1E2E?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+    <img src="https://img.shields.io/badge/LinkedIn-fbc7d4?style=for-the-badge&logo=linkedin&logoColor=1E1E2E&labelColor=9796f0" />
   </a>
   <a href="https://github.com/renugajagadeesan">
-    <img src="https://img.shields.io/badge/GitHub-1E1E2E?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-fbc7d4?style=for-the-badge&logo=github&logoColor=1E1E2E&labelColor=9796f0" />
   </a>
 </p>
 
@@ -59,27 +59,27 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 
-<!-- UNIFIED MATCHING TECH STACK -->
+<!-- GRADIENT TECH STACK (#9796f0 & #fbc7d4) -->
 ### 💻 Tech Stack:
 
 #### **Languages & Frameworks**
 <p>
-  <img src="https://img.shields.io/badge/HTML5-1E1E2E?style=for-the-badge&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/CSS3-1E1E2E?style=for-the-badge&logo=css3&logoColor=1572B6" />
-  <img src="https://img.shields.io/badge/JavaScript-1E1E2E?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/React-1E1E2E?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Bootstrap-1E1E2E?style=for-the-badge&logo=bootstrap&logoColor=7952B3" />
+  <img src="https://img.shields.io/badge/HTML5-fbc7d4?style=for-the-badge&logo=html5&logoColor=1E1E2E&labelColor=9796f0" />
+  <img src="https://img.shields.io/badge/CSS3-fbc7d4?style=for-the-badge&logo=css3&logoColor=1E1E2E&labelColor=9796f0" />
+  <img src="https://img.shields.io/badge/JavaScript-fbc7d4?style=for-the-badge&logo=javascript&logoColor=1E1E2E&labelColor=9796f0" />
+  <img src="https://img.shields.io/badge/React-fbc7d4?style=for-the-badge&logo=react&logoColor=1E1E2E&labelColor=9796f0" />
+  <img src="https://img.shields.io/badge/Bootstrap-fbc7d4?style=for-the-badge&logo=bootstrap&logoColor=1E1E2E&labelColor=9796f0" />
 </p>
 
 #### **Backend, Tools & Workflow**
 <p>
-  <img src="https://img.shields.io/badge/Node.js-1E1E2E?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
-  <img src="https://img.shields.io/badge/Express.js-1E1E2E?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-1E1E2E?style=for-the-badge&logo=git&logoColor=F05032" />
-  <img src="https://img.shields.io/badge/GitHub-1E1E2E?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-1E1E2E?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
-  <img src="https://img.shields.io/badge/Vite-1E1E2E?style=for-the-badge&logo=vite&logoColor=646CFF" />
-  <img src="https://img.shields.io/badge/NPM-1E1E2E?style=for-the-badge&logo=npm&logoColor=CB3837" />
+  <img src="https://img.shields.io/badge/Node.js-fbc7d4?style=for-the-badge&logo=nodedotjs&logoColor=1E1E2E&labelColor=9796f0" />
+  <img src="https://img.shields.io/badge/Express.js-fbc7d4?style=for-the-badge&logo=express&logoColor=1E1E2E&labelColor=9796f0" />
+  <img src="https://img.shields.io/badge/Git-fbc7d4?style=for-the-badge&logo=git&logoColor=1E1E2E&labelColor=9796f0" />
+  <img src="https://img.shields.io/badge/GitHub-fbc7d4?style=for-the-badge&logo=github&logoColor=1E1E2E&labelColor=9796f0" />
+  <img src="https://img.shields.io/badge/VS_Code-fbc7d4?style=for-the-badge&logo=visualstudiocode&logoColor=1E1E2E&labelColor=9796f0" />
+  <img src="https://img.shields.io/badge/Vite-fbc7d4?style=for-the-badge&logo=vite&logoColor=1E1E2E&labelColor=9796f0" />
+  <img src="https://img.shields.io/badge/NPM-fbc7d4?style=for-the-badge&logo=npm&logoColor=1E1E2E&labelColor=9796f0" />
 </p>
 
 <p align="center">
@@ -97,19 +97,19 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 
-<!-- UNIFIED COLOR STATS & GRAPH -->
+<!-- GRADIENT STATS & GRAPH (#fbc7d4 & #9796f0) -->
 ### 📊 GitHub Analytics & Activity Graph:
 
 <p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=renugajagadeesan&theme=tokyonight" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=renugajagadeesan&theme=tokyonight" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=renugajagadeesan&theme=dracula" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=renugajagadeesan&theme=dracula" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=renugajagadeesan&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=renugajagadeesan&bg_color=0D1117&color=fbc7d4&line=9796f0&point=fbc7d4&area=true&hide_border=true" />
 </p>
 
-<!-- FOOTER BANNER -->
+<!-- FOOTER GRADIENT BANNER (#fbc7d4 to #9796f0) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,19,30,40&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=fbc7d4,9796f0&height=120&section=footer" width="100%" />
 </div>
