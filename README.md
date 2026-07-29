@@ -1,12 +1,20 @@
-# Hi 👋, I'm Renuga Jagadeesan
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&height=70&lines=Hi+there!+%F0%9F%90%8B+I'm+Renuga+Jagadeesan;Frontend+%26+Full+Stack+Developer;Building+Interactive+Web+Applications" alt="Typing SVG" />
+</div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUGGAC3P4PP9385a/giphy.gif" width="400" alt="Coding GIF" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUGGAC3P4PP9385a/giphy.gif" width="380" alt="Coding Animation" />
 </p>
 
 I am a Web Developer passionate about building interactive, responsive web applications and clean user interfaces. I ❤️ JavaScript, React.js, HTML, CSS, and Bootstrap, and I am always excited to learn new technologies and build innovative web projects.
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
 
 ### 🔭 About Me
 
@@ -16,7 +24,9 @@ I am a Web Developer passionate about building interactive, responsive web appli
 * 📫 How to reach me: **renugajagadeesan@gmail.com**
 * ⚡ Fun fact: I love converting creative UI concepts into clean, functional code!
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
 
 ### 🌐 Socials:
 
@@ -32,7 +42,9 @@ I am a Web Developer passionate about building interactive, responsive web appli
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
 
 ### 💻 Tech Stack:
 
@@ -54,17 +66,11 @@ I am a Web Developer passionate about building interactive, responsive web appli
   <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
 </p>
 
----
-
-### 🐍 Contribution Eating Snake:
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/renugajagadeesan/renugajagadeesan/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 
----
-
-### 📊 GitHub Stats & Activity Graph:
+### 📊 GitHub Stats & Moving Activity Graph:
 
 <p align="center">
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=renugajagadeesan&theme=github_dark" />
