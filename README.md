@@ -59,14 +59,18 @@ I am a Web Developer passionate about building interactive, responsive web appli
 ### 🐍 Contribution Eating Snake:
 
 <p align="center">
-  <img src="https://snk-badge.vercel.app/api/snake?username=renugajagadeesan&theme=dark" alt="Contribution Snake Animation" />
+  <img src="https://raw.githubusercontent.com/renugajagadeesan/renugajagadeesan/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
 </p>
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats & Activity Graph:
 
-<p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=renugajagadeesan&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renugajagadeesan&layout=compact&theme=dark&hide_border=true" />
+<p align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=renugajagadeesan&theme=github_dark" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=renugajagadeesan&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=renugajagadeesan&theme=react-dark" />
 </p>
